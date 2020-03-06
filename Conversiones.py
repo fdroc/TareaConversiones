@@ -1,6 +1,6 @@
 def test_convertirABaseDiez():
-    assert convertirABaseDiez(10,6)==6
-    assert convertirABaseDiez(145,6)==65
+    assert convertirABaseDiez(20,8)==16
+    assert convertirABaseDiez(30,7)==21
     print("pruebas exitosas")
 
 def test_convertirABaseTal():
